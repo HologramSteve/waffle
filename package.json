@@ -1,0 +1,13 @@
+{
+  "name": "waffle-image-format",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/save.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "dependencies": {
+    "imagescript": "^1.3.0"
+  }
+}
